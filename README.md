@@ -37,20 +37,29 @@ The system uses:
 
 SmartBiometricAttendanceSystem/
 │
-├── source\_code/
-│   ├── main\_code.ino             # Arduino ESP32 code
+├── source_code/
+│   ├── main_code/
+│   │   └── main_code.ino      # Arduino ESP32 code
 │
 ├── firebase_config/
-│   ├── Firebase\_StudentData.json # Sample Firebase DB format
+│   ├── Firebase_StudentData.json # Sample Firebase DB format
 │
 ├── google_sheets_integration/
 |   ├── SmartAttendance.gs        # Google Apps Script for Sheet sync
-│   └── SmartInstitute\_StudentDetails\_2025(firebasesync).xlsx
+│   └── SmartInstitute_StudentDetails_2025(firebasesync).xlsx
 │
 │
 └── LICENSE                      # MIT license
 
 ````
+## 🚀 How to Run This Project
+
+1. Clone or download this repo.
+2. Open `main_code.ino` using Arduino IDE or PlatformIO.
+3. Replace Firebase credentials in the defined section.
+4. Upload to ESP32 board.
+5. Open Serial Monitor and start testing via fingerprint or keypad.
+6. View logs in Firebase or Google Sheets.
 
 ---
 
@@ -100,7 +109,7 @@ students: {
 ````
 
 3. Add your `FIREBASE_HOST` and `FIREBASE_AUTH` in `main_code.ino`
-   🔐 **DO NOT commit your actual credentials. Mask them or use a `secrets.h` file.**
+   🚨 **Important:** Never commit your actual `FIREBASE_AUTH` or host key. Use a `secrets.h` file or mask it before uploading to GitHub.
 
 ---
 
