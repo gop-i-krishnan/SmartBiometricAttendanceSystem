@@ -1,0 +1,1230 @@
+{
+  "students": {
+    "1001": {
+      "name": "Rahul S",
+      "pin": "1001",
+      "finger_index": 1,
+      "phone_number": 9876543210,
+      "payments": {
+        "fee_jan": "Unpaid",
+        "fee_feb": "Paid (2025-02-02)",
+        "fee_mar": "Paid (2025-03-03)",
+        "fee_apr": "Unpaid",
+        "fee_may": "Paid (2025-05-05)",
+        "fee_jun": "Paid (2025-06-06)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-21": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Fingerprint"
+        }
+      }
+    },
+    "1002": {
+      "name": "Meera R",
+      "pin": "1002",
+      "finger_index": 2,
+      "phone_number": 9845123678,
+      "payments": {
+        "fee_jan": "Paid (2025-01-02)",
+        "fee_feb": "Paid (2025-02-03)",
+        "fee_mar": "Unpaid",
+        "fee_apr": "Paid (2025-04-05)",
+        "fee_may": "Paid (2025-05-06)",
+        "fee_jun": "Unpaid",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1003": {
+      "name": "Arjun K",
+      "pin": "1003",
+      "finger_index": 3,
+      "phone_number": 9977543211,
+      "payments": {
+        "fee_jan": "Paid (2025-01-03)",
+        "fee_feb": "Unpaid",
+        "fee_mar": "Paid (2025-03-05)",
+        "fee_apr": "Paid (2025-04-06)",
+        "fee_may": "Unpaid",
+        "fee_jun": "Paid (2025-06-08)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+
+      }
+    },
+    "1004": {
+      "name": "Anjali N",
+      "pin": "1004",
+      "finger_index": 4,
+      "phone_number": 9988776655,
+      "payments": {
+        "fee_jan": "Unpaid",
+        "fee_feb": "Paid (2025-02-05)",
+        "fee_mar": "Paid (2025-03-06)",
+        "fee_apr": "Unpaid",
+        "fee_may": "Paid (2025-05-08)",
+        "fee_jun": "Paid (2025-06-09)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1005": {
+      "name": "Devika M",
+      "pin": "1005",
+      "finger_index": 5,
+      "phone_number": 9812345678,
+      "payments": {
+        "fee_jan": "Paid (2025-01-05)",
+        "fee_feb": "Paid (2025-02-06)",
+        "fee_mar": "Unpaid",
+        "fee_apr": "Paid (2025-04-08)",
+        "fee_may": "Paid (2025-05-09)",
+        "fee_jun": "Unpaid",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1006": {
+      "name": "Suraj P",
+      "pin": "1006",
+      "finger_index": 6,
+      "phone_number": 9900112233,
+      "payments": {
+        "fee_jan": "Paid (2025-01-06)",
+        "fee_feb": "Unpaid",
+        "fee_mar": "Paid (2025-03-08)",
+        "fee_apr": "Paid (2025-04-09)",
+        "fee_may": "Unpaid",
+        "fee_jun": "Paid (2025-06-11)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1007": {
+      "name": "Neha B",
+      "pin": "1007",
+      "finger_index": 7,
+      "phone_number": 9877123456,
+      "payments": {
+        "fee_jan": "Unpaid",
+        "fee_feb": "Paid (2025-02-08)",
+        "fee_mar": "Paid (2025-03-09)",
+        "fee_apr": "Unpaid",
+        "fee_may": "Paid (2025-05-11)",
+        "fee_jun": "Paid (2025-06-12)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1008": {
+      "name": "Manoj T",
+      "pin": "1008",
+      "finger_index": 8,
+      "phone_number": 9898989898,
+      "payments": {
+        "fee_jan": "Paid (2025-01-09)",
+        "fee_feb": "Unpaid",
+        "fee_mar": "Paid (2025-03-11)",
+        "fee_apr": "Paid (2025-04-12)",
+        "fee_may": "Unpaid",
+        "fee_jun": "Paid (2025-06-14)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1009": {
+      "name": "Akhila J",
+      "pin": "1009",
+      "finger_index": 9,
+      "phone_number": 9833445566,
+      "payments": {
+        "fee_jan": "Paid (2025-01-08)",
+        "fee_feb": "Paid (2025-02-09)",
+        "fee_mar": "Unpaid",
+        "fee_apr": "Paid (2025-04-11)",
+        "fee_may": "Paid (2025-05-12)",
+        "fee_jun": "Unpaid",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    },
+    "1010": {
+      "name": "Vishnu D",
+      "pin": "1010",
+      "finger_index": 10,
+      "phone_number": 9797979797,
+      "payments": {
+        "fee_jan": "Unpaid",
+        "fee_feb": "Paid (2025-02-11)",
+        "fee_mar": "Paid (2025-03-12)",
+        "fee_apr": "Unpaid",
+        "fee_may": "Paid (2025-05-14)",
+        "fee_jun": "Paid (2025-06-15)",
+        "fee_jul": "nan",
+        "fee_aug": "nan",
+        "fee_sep": "nan",
+        "fee_oct": "nan",
+        "fee_nov": "nan",
+        "fee_dec": "nan"
+      },
+      "attendance": {
+        "2025-01-05": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-01-12": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-19": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-01-26": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-02-09": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-16": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-02-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-02": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-03-09": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-16": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-23": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-03-30": {
+          "time_in": "08:58:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-04-06": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-13": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-20": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-04-27": {
+          "time_in": "09:01:00",
+          "time_out": "11:02:00",
+          "method": "Manual"
+        },
+        "2025-05-04": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-11": {
+          "time_in": "08:58:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        },
+        "2025-05-18": {
+          "time_in": "09:01:00",
+          "time_out": "10:59:00",
+          "method": "Manual"
+        }
+      }
+    }
+  }
+}
