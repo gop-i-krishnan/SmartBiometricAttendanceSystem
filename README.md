@@ -114,8 +114,9 @@ students: {
 
 ## 📽️ Video Demonstration
 
-🎥 Watch the full system in action (Malayalam explanation):
-**▶️ [Watch the full working demo video here]([https://drive.google.com/your-shared-link](https://drive.google.com/file/d/1Kgz6PvbE_KsSLGANPw2xYd847PbvhhtR/view?usp=drive_link))**
+Project Demo (Malayalam + English)
+▶️ [Watch the full working demo video here](https://drive.google.com/file/d/1Kgz6PvbE_KsSLGANPw2xYd847PbvhhtR/view?usp=drive_link)
+
 
 
 
