@@ -154,7 +154,6 @@ This project is licensed under the **MIT License** – feel free to fork and bui
 
 ## 📬 Contact
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
+📧 Reach me via ``` [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
 
-```
 
