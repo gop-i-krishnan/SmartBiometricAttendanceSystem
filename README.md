@@ -39,18 +39,14 @@ SmartBiometricAttendanceSystem/
 │
 ├── source\_code/
 │   ├── main\_code.ino             # Arduino ESP32 code
-│   ├── SmartAttendance.gs        # Google Apps Script for Sheet sync
 │
-├── data/
+├── firebase_config/
 │   ├── Firebase\_StudentData.json # Sample Firebase DB format
+│
+├── google_sheets_integration/
+|   ├── SmartAttendance.gs        # Google Apps Script for Sheet sync
 │   └── SmartInstitute\_StudentDetails\_2025(firebasesync).xlsx
 │
-├── documentation/
-│   ├── README.md                 # This file
-│   ├── Screenshots/             # Optional: Images of LCD/Firebase
-│
-├── video/
-│   └── Final\_Working\_Demo.mp4   # Malayalam explanation video
 │
 └── LICENSE                      # MIT license
 
