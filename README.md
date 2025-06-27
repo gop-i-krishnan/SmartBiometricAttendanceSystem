@@ -125,9 +125,7 @@ students: {
 
 ## 👨‍💻 Author
 
-* **Name:** Gopi (aka LifeCoder0)
-* **Branch:** ECE 4th Semester, Kerala
-* **Vision:** Early success through tech + passive income strategies
+* **Name:** Gopi Krishnan
 
 ---
 
@@ -148,7 +146,7 @@ This project is licensed under the **MIT License** – feel free to fork and bui
 
 ## 📬 Contact
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/)
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
 
 ```
 
