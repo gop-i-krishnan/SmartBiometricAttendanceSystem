@@ -146,7 +146,6 @@ This project is powered by a **homemade AC-to-DC adapter**, built using:
 
 
 ---
-## PROJECT REPORT 
 [Project Report](https://docs.google.com/document/d/1lXyd9Lvq4J9Tj9mOCwu4tCE9tRsfdpbz/edit?usp=drive_link&ouid=101172936098116183343&rtpof=true&sd=true)
 ---
 
