@@ -130,7 +130,7 @@ Project Demo (Malayalam + English)
 
 
 ---
----
+
 
 ## ⚡ Power Supply Adapter (Custom-Built)
 
@@ -142,10 +142,13 @@ This project is powered by a **homemade AC-to-DC adapter**, built using:
 
 🔌 It provides stable power for both the ESP32 microcontroller and peripheral modules like the fingerprint sensor, LCD, and buzzer.
 
-📷 *Photos and schematics of this adapter are included in the project report.*
+📷 *Photos and schematics of this adapter are included in the below project report.*
+
 
 ---
-
+## PROJECT REPORT 
+[Project Report](https://docs.google.com/document/d/1lXyd9Lvq4J9Tj9mOCwu4tCE9tRsfdpbz/edit?usp=drive_link&ouid=101172936098116183343&rtpof=true&sd=true)
+---
 
 ## 👨‍💻 Author
 
