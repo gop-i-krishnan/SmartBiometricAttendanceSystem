@@ -130,6 +130,22 @@ Project Demo (Malayalam + English)
 
 
 ---
+---
+
+## ⚡ Power Supply Adapter (Custom-Built)
+
+This project is powered by a **homemade AC-to-DC adapter**, built using:
+- 240V to 12V step-down transformer
+- Bridge rectifier using 4 diodes
+- 100µF 25V capacitor for filtering
+- L7812 and L7805 voltage regulators for dual 12V and 5V outputs
+
+🔌 It provides stable power for both the ESP32 microcontroller and peripheral modules like the fingerprint sensor, LCD, and buzzer.
+
+📷 *Photos and schematics of this adapter are included in the project report.*
+
+---
+
 
 ## 👨‍💻 Author
 
